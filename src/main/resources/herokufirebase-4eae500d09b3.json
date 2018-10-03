@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "herokufirebase",
+  "private_key_id": "4eae500d09b3dbaf6e4b64fdb0a7c1746a2317e7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCxFEy3VaQoUlk2\nhI1ykwhChpAToPH/z3ZTwGb6r7D+troux9dd9lR7fFtH0DNZVKBJiWVapZpojU/S\nBmYDSxP3AfHFpRQwLOG8Y71tKq6BC3fnNau/BCk6pAgJs3dDVkk3Z4tpiCc2zMJu\njtC9egffVWRZpbcCfnBRS2DfA2dk665xGaLWLSWrxkvCS+qsh2zH9meNDL4fQdF6\n6awro+r0gLPmadOPm49XRdgcCAGrpQeKaJnRiGiDPN1pGbM+aqnO/7SYxkVSRgEz\ntz/5BUKQpZeoqOkM4ql4zj19bR+8alli9E1YV/+eRlDdZqFCBA8opOFO4Mre67RL\n3L7dVIZ/AgMBAAECggEAWBi1y/Xu6+KAIMfUSR6OGu6wKhvFmZNAlo0fjnMu1qHY\nwaJJaqU8xYyKKxGRIk2gSsVwp6bAyWgYQHBPey70WUxd2Ir2nrsNePiUCoYT9/5Z\nIi2I6siqrFJj71OaL2Vzmn1IlfGXNMOsrW0eu01FMl5cxN7VTAfUYBVktb6PR1zG\nRuq2p39JUudaCHLgt+KjgCSFdaSCPD9DGfWP7sRnJ+9klN9SfRGmEP9rni69DX2r\nP24m8iySXV2ERBEWmjXPTqs0+tAL0/ezpaledfc+Y7x4LLWDBIMfXLFzhP4nzXWp\nzMobOKEuNpQUNsABTXyLihQBUp5CITJ17h5r4+DkDQKBgQDs4tn0yFNWFH/lq85K\neGu3vw5ZHJPXPZyeR4xXFRoWUU26cSWvklY5Vp+FqNX5giOZUHccTLrTbiphO3v1\nVyauTwi+ajoZROVdBZxYkw9Bvl0VTQWPMCpBjkb4hDBM0Lok4PS5GxTXUR481JPv\nw5F2FeLich96AQS8EQat7UNcPQKBgQC/XhIoxCzR+vJc3x4S0Ptf9q26uzhxypG6\noeo3QseryFZQkQDDM9vJ6WmqvcSS4DtkSQv7mzUqUNIKmV6sAM3Heo8HICa7MjGb\n38TPLluR2JHSLj398EETvmE/+/n48ATODTiaDjhDs6Nl+NPS1QyFoq6/eYpsQPlW\ncANJrvNtawKBgQCIrTbecjsLHpbQuDk1ZJeaFAU+SyvN88GK3XNOx2Ee4Vg8q433\n6DIRsTYnU0vqQzkw+2lODcN5vEV9hmm2G8u4pOdBnl7ZN5QzAMq9nFQgNarVYHRF\nsp+e5W1zdCm+GGxeXOE2cDatKSOOK4UTwL4L6QLYbspUhYPq0tQMxCmqbQKBgBmD\nEAaxSIxh2Se6cwbtJ2X+u+B2DytUZyMrbM8bLwVeuusYubJMWpPLc1PY4rj1/dT7\nzAYqBedzSN0y3yUtIkHiu+imR6OTKHvwVAuO0ZRa++26TndpLTPVoJ9oF0YxsWJK\n7u3S0XttGm6AwrSLxJSYQJW0PVj7PIJign2zPi6rAoGBANJpvFuubvY5B3uy2P33\nIHfUEVXEOsUe8maqLCMr3wgPuQkmSEo2ybYA6g+4/LiTutxyExZJVjCJoI2As0ye\nO7+Ir5qixenTThjcY43a1nev7XSRQ+UNMlGkYrhttjBj2y31RtA/ea0LimBGdySW\nPqym+NEDytkgp6EDEpATcLuY\n-----END PRIVATE KEY-----\n",
+  "client_email": "herokufirebase@appspot.gserviceaccount.com",
+  "client_id": "107153856456691248799",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/herokufirebase%40appspot.gserviceaccount.com"
+}
